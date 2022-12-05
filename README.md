@@ -1,5 +1,5 @@
-"# Throwin-VR" 
+# Throwin-VR
 
-Requirements to run:
+##Requirements to run:##
 A vr headset
 SteamVR
