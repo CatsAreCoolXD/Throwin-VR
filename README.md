@@ -1,5 +1,7 @@
 # Throwin-VR
 
-Requirements to run:\n
-A vr headset\n
+Requirements to run:
+
+A vr headset
+
 SteamVR
